@@ -2,7 +2,7 @@
 
 # SP-1 Development documentation
 
-Development documentation for the SP-1 stem player by Teenage Engineering.
+Welcom do the development documentation for the SP-1 stem player by Teenage Engineering.
 
 The SP-1 is an unreleased [stem player](https://llllllll.co/t/te-stem-player/66795) designed by Teenage Engineering and now also a very fancy nRF52840 development board. Since it was never released and TE doesn't provide any documentation, we have to write it ourselves.
 
@@ -12,34 +12,8 @@ Please have fun with this device but also read the disclaimer at the bottom of t
 
 💾👷🏻‍♂️
 
-## Hardware overview
+Go have a look at the [Wiki](https://github.com/timknapen/SP-1-dev/wiki) to get started!
 
-The main MCU in the SP-1 stem player is an [nRF52840](https://www.nordicsemi.com/Products/nRF52840) by Nordic, a 32-bit ARM Cortex-M4 chip running at 64 MHz.
-
-
-#### Todo:
-- overview of chips and how they communicate with the MCU
-- links to datasheets of all chips
-
-## Setting up for development
-
-#### Todo:
-- SWD and debugger setup instructions
-- toolchain setup instructions
-- setup examples of all peripherals
-
-## Uploading new stems
-
-#### Todo:
-- documentation of the stem upload protocol
-
-## Compiling for the SP-1 bootloader
-
-*How to compile new firmware for your SP-1 so it can be used with the TE bootloader.*
-
-#### Todo:
-- memory layout and linker setup instructions for bootloader
-- info about setup of clocks and main peripherals for use with bootloader 
 
 ## Uploading firmware
 
