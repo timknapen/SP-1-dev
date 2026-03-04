@@ -30,10 +30,10 @@
 // Power for ladders and faders
 #define PIN_BTN_COM NRF_GPIO_PIN_MAP(1, 10) // P1.10
 
-// FNC button ••
+// Function button ••
 #define PIN_BTN_FNC NRF_GPIO_PIN_MAP(0, 27) // P0.27
 
-// Playback LEDS (between PLAY and FNC buttons)
+// Playback LEDS (between PLAY and Function buttons)
 #define PIN_LED_1 NRF_GPIO_PIN_MAP(1, 13) // P1.13
 #define PIN_LED_2 NRF_GPIO_PIN_MAP(0, 0)  // P0.00
 #define PIN_LED_3 NRF_GPIO_PIN_MAP(1, 12) // P1.12

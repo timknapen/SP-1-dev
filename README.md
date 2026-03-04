@@ -2,7 +2,7 @@
 
 # SP-1 Development documentation
 
-Welcom do the development documentation for the SP-1 stem player by Teenage Engineering.
+Welcome to the development documentation for the SP-1 stem player by Teenage Engineering.
 
 The SP-1 is an unreleased [stem player](https://llllllll.co/t/te-stem-player/66795) designed by Teenage Engineering and now also a very fancy nRF52840 development board. Since it was never released and TE doesn't provide any documentation, we have to write it ourselves.
 
@@ -17,7 +17,7 @@ Go have a look at the [Wiki](https://github.com/timknapen/SP-1-dev/wiki) to get 
 
 ## Uploading firmware
 
-Thanks to the hard work by the incredibly talented engineers at Solderless, you can now update the firmware of you SP-1 without even opening up the device!  
+Thanks to the hard work by the incredibly talented engineers at Solderless, you can now update the firmware of your SP-1 without even opening up the device!  
 
 Please use the web based updater tool created by the Solderless dev team and follow the instructions at [link to updater tool here].
 
