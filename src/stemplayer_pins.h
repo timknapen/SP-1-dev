@@ -56,7 +56,7 @@
 #define PIN_CS42_RST NRF_GPIO_PIN_MAP(0, 15) // P0.15
 
 // I2S
-#define PIN_I2S_DOUT NRF_GPIO_PIN_MAP(1, 9)      // P1.09
+#define PIN_I2S_DOUT NRF_GPIO_PIN_MAP(1, 9)    // P1.09
 #define PIN_I2S_LRCLK NRF_GPIO_PIN_MAP(0, 11)  // P0.11
 #define PIN_I2S_SCLK NRF_GPIO_PIN_MAP(0, 12)   // P0.12
 #define PIN_I2S_OSC_EN NRF_GPIO_PIN_MAP(0, 13) // P0.13 // 3.072 MHz OSC en
@@ -74,7 +74,7 @@
 #define PIN_UART_RTS NRF_GPIO_PIN_MAP(1, 3)   // P1.03
 #define PIN_UART_TXD NRF_GPIO_PIN_MAP(1, 4)   // P1.04
 #define PIN_CY_SPI_CSN NRF_GPIO_PIN_MAP(1, 5) // P1.05
-#define PIN_CY_RST NRF_GPIO_PIN_MAP(0, 10)    // P0.10
+#define PIN_CY_nRST NRF_GPIO_PIN_MAP(0, 10)   // P0.10
 
 // BQ24232 battery charger
 #define PIN_BQ_ISET NRF_GPIO_PIN_MAP(1, 00)    // P1.00
