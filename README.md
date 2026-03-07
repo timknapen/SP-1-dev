@@ -19,7 +19,7 @@ Go have a look at the [Wiki](https://github.com/timknapen/SP-1-dev/wiki) to get 
 
 Thanks to the hard work by the incredibly talented engineers at Solderless, you can now update the firmware of your SP-1 without even opening up the device!  
 
-Please use the web based updater tool created by the Solderless dev team and follow the instructions at *[link to updater tool here]*.
+Please use the web based [update utility](https://solderless.engineering) created by the Solderless dev team.
 
 The updater works with Google Chrome or any other browser that supports web serial.
 
