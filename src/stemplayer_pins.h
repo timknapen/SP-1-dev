@@ -50,7 +50,7 @@
 #define PIN_I2C_SDA NRF_GPIO_PIN_MAP(1, 07) // P1.07
 
 // TAS2505 speaker amp
-#define PIN_TAS_RST NRF_GPIO_PIN_MAP(0, 9) // P0.09
+#define PIN_TAS_RST NRF_GPIO_PIN_MAP(0, 9) // P0.09 / NFC1
 
 // CS42L42 headphone amp
 #define PIN_CS42_RST NRF_GPIO_PIN_MAP(0, 15) // P0.15
@@ -74,7 +74,7 @@
 #define PIN_UART_RTS NRF_GPIO_PIN_MAP(1, 3)   // P1.03
 #define PIN_UART_TXD NRF_GPIO_PIN_MAP(1, 4)   // P1.04
 #define PIN_CY_SPI_CSN NRF_GPIO_PIN_MAP(1, 5) // P1.05
-#define PIN_CY_nRST NRF_GPIO_PIN_MAP(0, 10)   // P0.10
+#define PIN_CY_nRST NRF_GPIO_PIN_MAP(0, 10)   // P0.10 / NFC2
 
 // BQ24232 battery charger
 #define PIN_BQ_ISET NRF_GPIO_PIN_MAP(1, 00)    // P1.00
