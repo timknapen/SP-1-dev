@@ -1,4 +1,4 @@
-<img src="./img/sp-01_512.png" alt="TE SP-1 illustration" width="256"/>
+<img src="img/sp-01_512.png" alt="TE SP-1 illustration" width="256"/>
 
 # SP-1 developer documentation
 
