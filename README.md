@@ -28,7 +28,7 @@ The updater works with Google Chrome or any other browser that supports web seri
 
 For general discussion about the Teenage Engineering stem player, please see the original thread at [llllllllines](https://llllllll.co/t/te-stem-player/66795).
 
-<img src="./icon.png" alt="mr-WEEE illustration" width="128"/>
+<img src="icon.png" alt="mr-WEEE illustration" width="128"/>
 
 For development questions and technical discussion about the SP-1, come join us on *[link to the TE SP-1 dev discord here]*.
 
