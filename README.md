@@ -4,7 +4,7 @@
 
 Welcome to the developer documentation for the SP-1 stem player by Teenage Engineering.
 
-The SP-1 is an unreleased [stem player](https://llllllll.co/t/te-stem-player/66795) designed by Teenage Engineering and now also a very fancy nRF52840 development board. Since it was never released and TE doesn't provide any documentation, we have to write it ourselves.
+The SP-1 is an unreleased stem player designed by Teenage Engineering and now also a very fancy nRF52840 development board. Since it was never released and TE doesn't provide any documentation, we have to write it ourselves.
 
 If you want to write new firmware for your SP-1, this repo is here to help you! 
 
@@ -26,12 +26,9 @@ The updater works with Google Chrome or any other browser that supports web seri
 
 ## Discussion
 
-For general discussion about the Teenage Engineering stem player, please see the original thread at [llllllllines](https://llllllll.co/t/te-stem-player/66795).
-
 <img src="icon.png" alt="mr-WEEE illustration" width="128"/>
 
-For development questions and technical discussion about the SP-1, come join us on *[link to the TE SP-1 dev discord here]*.
-
+For development questions and technical discussion about the SP-1, we will set up a discord *[link to the TE SP-1 dev discord here]*.
 
 
 ## Disclaimer 
