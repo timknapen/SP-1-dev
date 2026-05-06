@@ -28,8 +28,7 @@ The updater works with Google Chrome or any other browser that supports web seri
 
 <img src="icon.png" alt="mr-WEEE illustration" width="128"/>
 
-For development questions and technical discussion about the SP-1, we will set up a discord *[link to the TE SP-1 dev discord here]*.
-
+For development questions and technical discussion about the SP-1, join the [TE SP-1 DEV discord](https://discord.gg/v8Pkh26Ct).
 
 ## Disclaimer 
 
