@@ -14,6 +14,12 @@ Please have fun with this device but also read the disclaimer at the bottom of t
 
 Go have a look at the [Wiki](https://github.com/timknapen/SP-1-dev/wiki) to get started!
 
+## Loading new stems
+
+🎵
+You can now load your own stems onto SP-1 without ever modifying the original firmware: [SP-1 stem loader](https://solderless.engineering)! 
+
+💐 Thank you to all the amazing people at Solderless for making this possible!! 💐
 
 ## Uploading firmware
 
