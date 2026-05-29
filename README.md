@@ -16,8 +16,8 @@ Go have a look at the [Wiki](https://github.com/timknapen/SP-1-dev/wiki) to get 
 
 ## Loading new stems
 
-🎵
-You can now load your own stems onto SP-1 without ever modifying the original firmware: [SP-1 stem loader](https://solderless.engineering)! 
+You can now load your own stems onto SP-1 without ever modifying the original firmware: [SP-1 stem loader](https://solderless.engineering)!   
+Please read the instructions at [SP-1 stem loader](https://solderless.engineering/stemloader/help) to get started.
 
 💐 Thank you to all the amazing people at Solderless for making this possible!! 💐
 
@@ -34,7 +34,7 @@ The updater works with Google Chrome or any other browser that supports web seri
 
 <img src="icon.png" alt="mr-WEEE illustration" width="128"/>
 
-For development questions and technical discussion about the SP-1, join the [TE SP-1 DEV discord](https://discord.gg/v8Pkh26Ct).
+For development questions and technical discussion about the SP-1, join the [TE SP-1 DEV discord](https://discord.gg/y4V6VfHYck). 
 
 ## Disclaimer 
 
